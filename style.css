@@ -68,7 +68,7 @@ p {
 	color: white;
 }
 .brand h1 span {
-	color: crimson;
+	color: yellow;
 }
 
 /* Header section */
@@ -248,7 +248,7 @@ p {
 	left: 0;
 	height: 100%;
 	width: 0;
-	background-color: green;
+	background-color: crimson;
 	animation: text_reveal_box 1s ease;
 	animation-delay: 0.5s;
 }
